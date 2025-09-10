@@ -7,4 +7,3 @@ console.log("Name:", name);
 console.log("Course:", course);
 console.log("Year Level:", yearLevel);
 
-
