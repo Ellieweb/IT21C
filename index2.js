@@ -1,0 +1,32 @@
+console.log("Hello World!");
+
+let student = "Leanne Tudtud";
+let grade = 1.0;
+let isPassed = true;
+let address;
+let partner = null;
+
+console.log ("Student Name: "+student + "\Final Grade: " + grade + "\isPassed?: " + isPassed + "\nAddress: " + address + "\nPartner: " + partner + "\n");
+
+let num1 = 12;
+let num2 = 11;
+
+let sum = num1+num2;
+let diff = num1-num2;
+let prod = num1*num2;
+let quo = num1/num2;
+let mod = num1%num2;
+
+console.log ("Sum: " + sum + "\nDifference: " + diff + "\inProduct?: " + prod + "\nQuotient: " + quo + "\nModule: " + mod + "\n");
+
+
+ console.log("IT21C");
+
+ let hoursOfSleep = 8;
+ let hoursOfStudy = 2;
+
+ let totalHours = hoursOfSleep + hoursOfStudy;
+
+    console.log("Hours of Sleep: " + hoursOfSleep + " hours");
+    console.log("Hours of Study: " + hoursOfStudy + " hours");
+    console.log("Total Hours of Sleep and Study: " + totalHours + " hours");
