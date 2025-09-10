@@ -20,3 +20,9 @@ if (hoursOfStudy >= 5) {
 } else {
     console.log("You need to study more.");
 }
+// Step 4: Loops
+let subjects = ["Math", "Science", "English", "History", "Programming"];
+
+for (let i = 0; i < subjects.length; i++) {
+    console.log("Subject:", subjects[i]);
+}
