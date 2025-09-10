@@ -26,3 +26,10 @@ let subjects = ["Math", "Science", "English", "History", "Programming"];
 for (let i = 0; i < subjects.length; i++) {
     console.log("Subject:", subjects[i]);
 }
+// Step 5: Functions
+function studentSummary() {
+    return `I am ${name}, taking ${course}, currently in ${yearLevel}. 
+I usually sleep ${hoursOfSleep} hours and study ${hoursOfStudy} hours daily.`;
+}
+
+console.log(studentSummary());
